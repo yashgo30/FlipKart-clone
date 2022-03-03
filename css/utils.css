@@ -1,0 +1,27 @@
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    padding: 5px 15px;
+    color: white;
+    background-color: var(--main-bg-color);
+    border: 2px solid white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.mar-y1{
+    margin: 5px 0;
+}
+
+.mar-y2{
+    margin: 24px 0;
+}
+
+
+.text-center{
+    text-align: center;
+}
