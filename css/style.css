@@ -19,6 +19,13 @@ header{
     font-family: 'Roboto', sans-serif;
 }
 
+body main{
+    background-image: url(img/slider1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
 nav{
     display: flex;
 }
